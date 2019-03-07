@@ -1,7 +1,8 @@
-package mmorgan.tutorial.android.myapplication
+package mmorgan.tutorial.android.myapplication.ui.quotes
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import mmorgan.tutorial.android.myapplication.R
 
 class QuotesActivity : AppCompatActivity() {
 
